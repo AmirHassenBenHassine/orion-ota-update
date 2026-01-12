@@ -4,6 +4,6 @@
   "min_version": "1.0.0",
   "changelog": "Initial OTA test release",
   "firmware_url": "https://raw.githubusercontent.com/AmirHassenBenHassine/OTA_Github/main/finalOrion_transmiter.ino1.bin",
-  "checksum": "PUT_YOUR_ACTUAL_MD5_HERE",
+  "checksum": "bdc3422aff9d10ed476ca5abafa2e965",
   "size": 1159408
 }
